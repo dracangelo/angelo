@@ -63,62 +63,62 @@ body {
 }
 .qwer {
   position: absolute;
-  top: 200px;
+  top: 375px;
   left: 50px;
 }
 #qwer {
   position: absolute;
-  top: 700px;
-  left: 75px;
+  top: 830px;
+  left: 50px;
 }
 .stev {
   position: absolute;
-  top: 1200px;
+  top: 1300px;
   left: 50px;
 }
 #stev {
   position: absolute;
   left: 50px;
-  top: 2000px;
+  top: 2075px;
 }
 .laso {
   position: absolute;
-  top: 2500px;
+  top: 2600px;
   left: 70px;
 }
 #laso {
   position: absolute;
-  top: 3100px;
+  top: 3150px;
   left: 55px;
 }
 #fam {
   position: absolute;
-  top: 200px;
+  top: 375px;
   right: 50px;
 }
 .fam {
   position: absolute;
-  top: 700px;
+  top: 830px;
   right: 50px;
 }
 .prom {
   position: absolute;
-  top: 2000px;
+  top: 2070px;
   right: 00px;
 }
 #rock {
   position: absolute;
-  top: 3100px;
+  top: 3165px;
   right: 50px;
 }
 .rock {
   position: absolute;
-  top: 2500px;
+  top: 2590px;
   right: 10px;
 }
 .step {
   position: absolute;
-  top: 1200px;
+  top: 1300px;
   right: 40px;
 }
 nav ul {
@@ -148,5 +148,5 @@ footer ul {
   background-color: rgb(192, 192, 192);
 }
 * {
-  overflow: hidden;
+  background-color: white;
 }
