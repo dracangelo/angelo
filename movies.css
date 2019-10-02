@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css?family=Rock+Salt&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Schoolbell&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Nosifer&display=swap");
+
+.joker {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  text-decoration: none;
+  margin: 10px;
+}
+span {
+  border: 1px solid red;
+  color: red;
+  padding: 2px;
+  margin: 1px;
+}
+#hobbs {
+  display: flex;
+  align-items: center;
+}
+.hobbs {
+  display: flex;
+  align-items: center;
+}
+.IT {
+  display: flex;
+  margin: 1.5px;
+  padding: 1.5rem;
+}
+#titans {
+  display: flex;
+  align-items: center;
+}
+.creepshow {
+  display: flex;
+  align-items: center;
+}
+#dc {
+  font-family: "Rock Salt", cursive;
+}
+#ITCT {
+  font-family: "Schoolbell", cursive;
+}
+#creep {
+  font-family: "Nosifer", cursive;
+}
+#bless {
+  display: flex;
+}
+h3 {
+  font-size: 35px;
+  text-decoration: underline;
+  color: lime;
+}
+body {
+  margin-left: 500px;
+}
+* {
+  background-color: azure;
+}
+.qwer {
+  position: absolute;
+  top: 200px;
+  left: 50px;
+}
+#qwer {
+  position: absolute;
+  top: 700px;
+  left: 75px;
+}
+.stev {
+  position: absolute;
+  top: 1200px;
+  left: 50px;
+}
+#stev {
+  position: absolute;
+  left: 50px;
+  top: 2000px;
+}
+.laso {
+  position: absolute;
+  top: 2500px;
+  left: 70px;
+}
+#laso {
+  position: absolute;
+  top: 3100px;
+  left: 55px;
+}
+#fam {
+  position: absolute;
+  top: 200px;
+  right: 50px;
+}
+.fam {
+  position: absolute;
+  top: 700px;
+  right: 50px;
+}
+.prom {
+  position: absolute;
+  top: 2000px;
+  right: 00px;
+}
+#rock {
+  position: absolute;
+  top: 3100px;
+  right: 50px;
+}
+.rock {
+  position: absolute;
+  top: 2500px;
+  right: 10px;
+}
+.step {
+  position: absolute;
+  top: 1200px;
+  right: 40px;
+}
+nav ul {
+  display: flex;
+  width: 400px;
+  position: relative;
+  margin: 10px;
+  padding: 25px;
+  justify-content: space-between;
+  background-color: rgb(192, 192, 192);
+}
+nav > ul > li > a:hover {
+  color: rgb(204, 168, 199);
+  background-color: azure;
+}
+body > #nav {
+  margin-left: 800px;
+}
+footer ul {
+  margin-top: 100p;
+  display: flex;
+  width: 400px;
+  position: ;
+  margin: 10px;
+  padding: 25px;
+  justify-content: space-between;
+  background-color: rgb(192, 192, 192);
+}
